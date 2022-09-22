@@ -10,6 +10,8 @@ Information entered by the user is stored in local storage.
 
 ## Getting Started
  To start just go ahead and click [this](https://dantheman4500.github.io/JS_Clander/) 
+ C:\Users\danie\Pictures\Camera Roll
+ 
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
