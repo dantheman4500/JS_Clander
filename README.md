@@ -19,8 +19,12 @@ Information entered by the user is stored in local storage.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Codes used:
+HTML 
+CSS 
+Javascript
+
+API Used:
+Booststrap 
+jquery
+Moment.js
